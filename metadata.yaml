@@ -1,0 +1,31 @@
+_repo: M-moire-sur-la-r-union-des-trois-services-des-postes-aux-chevaux-de-la-poste-aux-lettres-et-d__18889
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fenis, M.
+    alias: Saint-Victour, Fenis de
+    gutenberg_agent_id: '8319'
+    url: http://www.gutenberg.org/2009/agents/8319
+description: ''
+gutenberg_bookshelf:
+- The Philatelic Digital Library Project
+- FR Services publics
+gutenberg_issued: '2006-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18889'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Transportation -- France'
+- !lcc 'DC'
+- !lcsh 'Postal service -- France'
+- !lcc 'HE'
+title: Mémoire sur la réunion des trois services, des postes aux chevaux, de la poste
+  aux lettres, et des messageries, sous une seule administration
+url: http://www.gutenberg.org/ebooks/18889
