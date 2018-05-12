@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '8319'
     url: http://www.gutenberg.org/2009/agents/8319
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18889#M-moire-sur-la-r-union-des-trois-services-des-postes-aux-chevaux-de-la-poste-aux-lettres-et-d_
 gutenberg_bookshelf:
 - The Philatelic Digital Library Project
 - FR Services publics
